@@ -13,6 +13,6 @@ dependencies:
   - scipy
   - cartopy
   - xarray
-  - netcdf4==1.5.1
+  - netcdf4
 
 
