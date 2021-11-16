@@ -14,5 +14,6 @@ dependencies:
   - cartopy
   - xarray
   - netcdf4
+  - jupyterlab-system-monitor
 
 
